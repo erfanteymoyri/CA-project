@@ -1,0 +1,6 @@
+﻿PREDICTOR,ACCURACY
+best_tage,94.67
+bimodal,91.81
+gshare,91.81
+perceptron,90.5
+hashed_perceptron,94.85

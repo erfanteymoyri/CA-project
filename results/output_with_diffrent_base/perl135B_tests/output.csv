@@ -1,0 +1,5 @@
+﻿TYPE_OF_BASE,ACCURACY
+on_bimodal,94.67
+on_gshare,94.3
+on_perceptron,94.4
+on_hashed_perceptron,94.51
